@@ -3,6 +3,8 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { Detalle1Module } from './modules/detalle1/detalle1.module';
+import { Detalle2Module } from './modules/detalle2/detalle2.module';
 
 @NgModule({
   declarations: [
